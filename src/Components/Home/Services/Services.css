@@ -1,0 +1,18 @@
+.service{
+    padding:25px 50px;
+    box-shadow: 0px 0px 1px 2px rgb(229, 227, 227);
+}
+.service p{
+    font-size: 16px;
+}
+
+@media all and (max-width:500px){
+    .service{
+        padding:25px 50px;
+        box-shadow: 0px 0px 1px 2px rgb(229, 227, 227);
+        margin: 10px;
+    }
+    .service p{
+        font-size: 16px;
+    }
+}

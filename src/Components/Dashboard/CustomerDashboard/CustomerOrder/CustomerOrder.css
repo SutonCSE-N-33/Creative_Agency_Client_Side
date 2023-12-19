@@ -1,0 +1,21 @@
+.order-form{
+    width:700px;
+}
+input:focus{
+    outline: none;
+}
+.price{
+    width:300px;
+}
+
+@media all and (max-width:500px){
+    .order-form{
+        width:450px;
+    }
+    input:focus{
+        outline: none;
+    }
+    .price{
+        width:200px;
+    }
+}

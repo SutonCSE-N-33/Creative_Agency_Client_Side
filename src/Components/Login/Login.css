@@ -1,0 +1,19 @@
+.login-form{
+    border: 1px solid white;
+    box-shadow: 0px 0px 1px 2px rgb(189, 183, 183);
+    width:400px;
+    height: 300px;
+    text-align: center;
+    transform: translateX(500px);
+}
+@media all and (max-width:500px){
+   
+    .login-form{
+        border: 1px solid white;
+        box-shadow: 0px 0px 1px 2px rgb(189, 183, 183);
+        width:400px;
+        height: 300px;
+        text-align: center;
+        transform: translateX(45px);
+    }
+}

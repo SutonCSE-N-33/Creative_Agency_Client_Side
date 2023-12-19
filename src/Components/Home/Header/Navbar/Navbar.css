@@ -1,0 +1,36 @@
+
+.nav-item{
+    margin-left: 25px;
+    font-size: 20px;
+}
+.Login-btn{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding: 8px 20px;
+    width:120px;
+    border-radius: 5px;
+}
+.Login-btn:hover{
+    background-color: wheat;
+    color:black;
+}
+
+@media all and (max-width:500px){
+    .nav-item{
+        margin-left: 25px;
+        font-size: 20px;
+    }
+    .Login-btn{
+        background-color: black;
+        color:white;
+        text-align: center;
+        padding: 8px 20px;
+        width:120px;
+        border-radius: 5px;
+    }
+    .Login-btn:hover{
+        background-color: wheat;
+        color:black;
+    }
+}

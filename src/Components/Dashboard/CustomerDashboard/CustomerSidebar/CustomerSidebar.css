@@ -1,0 +1,6 @@
+@media all and (max-width:500px){
+    .customer-sidebar{
+        display:flex;
+        margin-left: 45px;
+    }
+}

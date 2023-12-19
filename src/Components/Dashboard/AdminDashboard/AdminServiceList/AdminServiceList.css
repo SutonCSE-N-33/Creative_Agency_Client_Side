@@ -1,0 +1,35 @@
+
+.serviceList-table{
+    width:90%;
+    background-color: white;
+}
+.serviceList-table table thead{
+   background-color: #F5F6FA;
+   text-align: center;
+   padding: 20px;
+}
+.serviceList-table table thead tr th{
+    padding: 10px;
+}
+.serviceList-table table tbody tr td{
+     padding: 10px;
+}
+
+@media all and (max-width:500px){
+    .serviceList-table{
+        width:100%;
+        background-color: white;
+    }
+    .serviceList-table table thead{
+       background-color: #F5F6FA;
+       text-align: center;
+       padding: 5px;
+    }
+    .serviceList-table table thead tr th{
+        padding: 5px;
+    }
+    .serviceList-table table tbody tr td{
+         padding: 5px;
+         font-size: 10px;
+    }
+}

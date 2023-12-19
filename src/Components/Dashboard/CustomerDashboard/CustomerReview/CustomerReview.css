@@ -1,0 +1,12 @@
+.submit-button{
+    margin-left: 196px !important;
+}
+
+@media all and (max-width:500px){
+       .review-form{
+          width:400px !important;
+       }
+       .submit-button{
+        margin-left: 300px !important;
+    }
+}

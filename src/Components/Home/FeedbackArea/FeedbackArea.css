@@ -1,0 +1,25 @@
+.feedback{
+    padding:20px;
+    box-shadow: 0px 0px 1px 0px rgb(119, 110, 110);
+    margin-bottom: 70px;
+}
+.feedback p{
+    color:#707070;
+}
+
+@media all and (max-width:500px){
+    .feedback-area{
+        margin-top: 20px !important;
+    }
+    .feedback-container{
+        margin-top: -20px !important;
+    }
+    .feedback{
+        padding:15px;
+        box-shadow: 0px 0px 1px 0px rgb(119, 110, 110);
+        margin: 10px;
+    }
+    .feedback p{
+        color:#707070;
+    }
+}

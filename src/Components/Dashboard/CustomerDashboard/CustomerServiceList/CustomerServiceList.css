@@ -1,0 +1,9 @@
+.service-type{
+    background-color: white;
+    width:400px;
+}
+.confirm-btn{
+    height: 40px !important;
+    text-align: center;
+    padding-bottom: 33px !important;
+}

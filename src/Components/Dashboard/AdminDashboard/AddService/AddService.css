@@ -1,0 +1,18 @@
+.addService-form{
+    background-color: white;
+}
+.add-btn{
+    transform: translate(790px,10px);
+}
+
+@media all and (max-width:500px){
+    .addService-form{
+        background-color: white;
+    }
+    .addService-form form{
+        width:100% !important;
+    }
+    .add-btn{
+        transform: translate(310px,10px);
+    }
+}
